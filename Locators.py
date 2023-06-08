@@ -1,5 +1,5 @@
 from selenium.webdriver.common.by import By
-
+#locatord are for saving the elements of html page to be tested
 
 class Locators():
     # --- login Page Locators ---
